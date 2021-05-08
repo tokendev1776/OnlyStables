@@ -1,1 +1,1 @@
-# PolyGaj Frontend
+# OnlyStables Frontend
